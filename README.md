@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Web Developer, and I'm passionate about learning new technologies and building cool stuff.
+I'm a Web and Desktop Application Developer with a strong proficiency in PHP and Python. Passionate about learning new technologies, I thrive on building innovative solutions in both web and desktop environments. My enthusiasm for tackling challenges and my commitment to continuous improvement drive me to create cool, user-centric software.
 
 <!--
 - 🔭 I’m currently working on ...
